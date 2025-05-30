@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="產品識別圖" width="400"/>
 </p>
 
-<h1 align="center">衛巡者 - AI Watchmen（Project Title）</h1>
+<h1 align="center">衛巡者 - AI Watchmen</h1>
 <p align="center" style="color: gray;">生成式 AI 使用風險監測與管理工具</p>
 
 
